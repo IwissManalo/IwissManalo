@@ -54,4 +54,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://raw.githubusercontent.com/IwissManalo/IwissManalo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IwissManalo/IwissManalo/output/snake.svg" alt="Snake animation" width="100%"/>
