@@ -28,11 +28,11 @@
 
 - 👩🏻‍💻 I’m currently a 2nd year BSIT student in **Centro Escolar University (Makati)**
 
-- 💬 Ask me about **Java, Python, MySQL, HTML and CSS**
+- 📚 Currently learning **Python, MySQL, HTML and CSS**
 
 - 💌 You can reach me at **irishmanalo.it@gmail.com**
 
-- 🎹 Fun fact **I play the piano**
+- 🎹 Fun fact about me: **I play the piano**
 
 <br>
 <h3 align="left">🫱🏼‍🫲🏽Connect with me</h3>
@@ -48,7 +48,9 @@
 <h3 align="center">⚙️Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,django,mysql,git,github,figma,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,c,html,css,bootstrap,django,nodejs"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,idea,pycharm,vscode,eclipse,arduino"/>
   </a>
 </p>
 
