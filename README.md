@@ -8,7 +8,7 @@
 
 <p align="center">🌟 My journey in the world of programming began 2 years ago, and since then, I've been on an exhilarating quest to explore, innovate, and contribute to the ever-evolving landscape of software development.
 
-<br>💻 What I Do: In this digital realm, I thrive on web development and designing. Whether it's crafting elegant code, designing intuitive user experiences, or delving into the complexities of algorithms, I'm constantly seeking new challenges to broaden my horizons.
+<br>💻 What I Do: In this digital realm, I thrive on programming, database management, and web designing. Whether it's crafting elegant code, designing intuitive user experiences, or delving into the complexities of algorithms, I'm constantly seeking new challenges to broaden my horizons.
 
 <br>🚀 My Mission: At the core of my endeavors lies a fervent desire to make a positive impact. I believe that technology, when wielded thoughtfully and responsibly, has the power to catalyze meaningful change and shape a brighter future for generations to come.</p>
 
