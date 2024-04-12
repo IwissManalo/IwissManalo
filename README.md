@@ -50,7 +50,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,c,html,css,bootstrap,django,nodejs"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,idea,pycharm,vscode,eclipse,arduino"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma,idea,pycharm,vscode,eclipse,arduino"/>
   </a>
 </p>
 
