@@ -38,8 +38,6 @@
 <h3 align="left">🫱🏼‍🫲🏽Connect with me</h3>
 <p align="left">
 <a href="https://ph.linkedin.com/in/irishmanalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/iwissmanalo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iwissmanalo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -57,3 +55,4 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://raw.githubusercontent.com/IwissManalo/IwissManalo/output/snake.svg" alt="Snake animation" width="100%"/>
+
