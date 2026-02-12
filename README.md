@@ -26,7 +26,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=790b7611tjgk74dxmpx276tq2xltpvnxlmuaztouaai305o6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <br><br>
 
-- 👩🏻‍💻 I’m currently a 4th year graduating BSIT student in **Centro Escolar University (Makati)**
+- 👩🏻‍💻 I’m currently a graduating BSIT student in **Centro Escolar University (Makati)**
 
 - 📚 Currently learning **Laravel and Tailwind**
 
@@ -57,6 +57,7 @@
 <img src="https://raw.githubusercontent.com/IwissManalo/IwissManalo/output/snake.svg" alt="Snake animation" width="100%"/>
 
 <p align="center">© FEB 2026</p>
+
 
 
 
