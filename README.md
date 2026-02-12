@@ -56,6 +56,7 @@
 
 <img src="https://raw.githubusercontent.com/IwissManalo/IwissManalo/output/snake.svg" alt="Snake animation" width="100%"/>
 
-<h3 align="left">© 2026</h3>
+<p align="center">© FEB 2026</p>
+
 
 
